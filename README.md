@@ -17,5 +17,5 @@
    section digunakan sebagai elemen yang akan mengelompokkan suatu hal.
 9. button
    button digunakan untuk membuat sebuah tombol seperti tombol kirim.
-10. <p
+10. p
    p digunakan untuk membuat paragraf teks.
